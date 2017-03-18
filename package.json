@@ -1,0 +1,14 @@
+{
+  "name": "confidence-builder",
+  "version": "1.0.0",
+  "description": "An Alexa Skill for people that need a pre-programmed robot to compliment them. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Paul Halliday",
+  "license": "MIT"
+}
